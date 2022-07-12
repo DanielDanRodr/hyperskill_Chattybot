@@ -1,3 +1,1 @@
-This is just a read me file. 
-
-Read me.
+This is my first real application, done in JetBrains Java for Beginners course.
